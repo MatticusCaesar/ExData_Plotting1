@@ -1,3 +1,18 @@
+##Exploratory Data Analysis - Project 1
+###by: Matt Marchand
+###last updated: 10/8/2014
+
+###There are 10 files in this repository:
+
+This README.md file
+CodeBook.md describing the data subsetting & cleaning
+4 R scripts named plot1-4.R
+4 plot images named plot1-4.png 
+
+If you attempt to run the scripts on your own computer, you will need to edit the working directory line
+
+
+
 ## Introduction
 
 This assignment uses data from
